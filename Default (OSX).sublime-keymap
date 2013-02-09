@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+d", "super+c"], "command": "django_comment"}
+]
