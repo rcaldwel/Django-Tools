@@ -6,7 +6,7 @@ django_comment = """\
 
 %s
 
-{%% nocomment %%}"""
+{%% endcomment %%}"""
 
 
 class DjangoCommentCommand(sublime_plugin.TextCommand):
